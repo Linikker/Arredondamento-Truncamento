@@ -57,8 +57,8 @@ Deseja testar outro número? (s/n): s
 ```
 
 ## 🧩 Estrutura do Projeto
-.
-├── main.py        # Código-fonte principal do programa
+.  
+├── main.py        # Código-fonte principal do programa  
 └── README.md      # Documentação do projeto
 
 
@@ -86,7 +86,6 @@ Deseja testar outro número? (s/n): s
 
 
 ## 👨‍💻 Autor
-Gustavo Liniker
-📧 Contato:  liniker.gu@hotmail.com
-
+Gustavo Liniker  
+📧 Contato:  liniker.gu@hotmail.com  
 💡 Projeto criado para fins de estudo e demonstração de aritmética de ponto flutuante.
